@@ -9,3 +9,7 @@ https://drive.google.com/open?id=1HzLZimMfS6LJy9bXvYJY45-k82oElIka <br>
 ## Statistics
 ![accuracy](https://user-images.githubusercontent.com/29172884/59925650-2f1c6880-9456-11e9-87e2-27bfa608f814.png)
 <br>
+![loss](https://user-images.githubusercontent.com/29172884/59925655-30e62c00-9456-11e9-84f1-284b10d5f159.png)
+<br>
+
+Final validation accuracy: 98%
